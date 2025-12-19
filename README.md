@@ -27,6 +27,9 @@ Développeur iOS spécialisé dans la création d’applications mobiles orient�
 <tr>
 <td><img src="assets/yakabi-1.png" width="300"></td>
 <td><img src="assets/yakabi-2.png" width="300"></td>
+<td><img src="assets/yakabi-3.png" width="300"></td>
+<td><img src="assets/yakabi-4.png" width="300"></td>
+<td><img src="assets/yakabi-5.png" width="300"></td>
 </tr>
 </table>
 
