@@ -1,24 +1,28 @@
-# iOS Full-Stack Developer
-### iOS / Mobile Full-Stack Developer
+# 👋 Mel Lacoste
+### iOS Full-Stack Developer
 
-🚀 SwiftUI · UIKit · Firebase · Node.js · GraphQL · Lottie · Redis · OneSignal · RevenueCat
+Développeur iOS spécialisé dans la création d’applications mobiles orientées produit, avec une forte attention portée à l’UX, aux **performances** et aux **architectures scalables**.
 
+---
 
 ## 📱 Projets
 
-### 🎨 Yakabi : Daily photo Roulette
-Yakabi est un jeu qui permet de mieux connaître ses amis.
+### 🎨 Yakabi – Daily Photo Roulette
+**Yakabi** est un jeu social qui permet de mieux connaître ses amis.  
+⏰ Chaque jour à 20h, une nouvelle partie commence !
+🎲 Chaque joueur participe avec une photo sélectionnée aléatoirement depuis sa pellicule.  
+🔐 Tout le monde doit jouer le jeu pour voir ce que ses amis ont joué. 
 
-Disponible sur App Store : lien
+🔗 **App Store** : https://apps.apple.com/fr/app/yakabi-daily-photo-roulette/id6744852802
 
-- SwiftUI
-- Firebase (Auth, Storage, Firestore, Functions)
-- Node.js
-- GraphQL
+#### 🛠 Stack
+- **iOS** : MVVM, SwiftUI, UIKit, Core Data
+- **Backend** : Node.js, GraphQL, Redis
+- **Services** : Firebase (Auth, Firestore, Storage, Cloud Functions)
+- **Monétisation & Notifications** : RevenueCat, OneSignal
 
-🔗 Repo : https://github.com/tonpseudo/ghibli-ai-camera
- 
- 
+#### 📸 Screenshots
+*(voir ci-dessous)*
 
 ---
 
