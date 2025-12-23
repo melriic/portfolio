@@ -47,7 +47,7 @@ DevOps:   GitHub Actions, Fastlane
 
 ---
 
-### [SYNapCSE](https://apps.apple.com/fr/app/yakabi-daily-photo-roulette/id6744852802)
+### [SYNapCSE]
 
 **📱 Product:** App qui facilite la communication entre salariés et CSE.
 
@@ -60,17 +60,6 @@ DevOps:   GitHub Actions, Fastlane
 iOS:      SwiftUI, UIKit, Combine, MVVM
 Backend:  Node.js, Firebase
 ```
-
-#### 📸 Screenshots
-<table>
-<tr>
-<td><img src="assets/yakabi-1.png" width="300"></td>
-<td><img src="assets/yakabi-2.png" width="300"></td>
-<td><img src="assets/yakabi-3.png" width="300"></td>
-<td><img src="assets/yakabi-4.png" width="300"></td>
-<td><img src="assets/yakabi-5.png" width="300"></td>
-</tr>
-</table>
 
 ---
 
