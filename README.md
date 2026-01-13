@@ -9,7 +9,7 @@ Building scalable, offline-first mobile applications with focus on architecture 
 
 ---
 
-## ⚙️ Projets
+## ⚙️ Experience
 
 ### [Yakabi – Daily Photo Roulette](https://apps.apple.com/fr/app/yakabi-daily-photo-roulette/id6744852802)
 
@@ -33,6 +33,9 @@ Backend:  Node.js, Apollo GraphQL, Redis, Firebase Cloud Functions
 Services: Algolia, RevenueCat, OneSignal, Replicate AI
 DevOps:   GitHub Actions, Fastlane
 ```
+
+### 🎯 Why it matters
+Cette architecture permet à l'application de rester rapide et fiable même en cas de trafic important, tout en offrant une expérience hors ligne fluide et en réduisant les coûts d'infrastructure.
 
 #### 📸 Screenshots
 <table>
